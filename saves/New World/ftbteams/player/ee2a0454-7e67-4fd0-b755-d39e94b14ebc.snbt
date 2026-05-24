@@ -1,0 +1,18 @@
+{
+	id: "ee2a0454-7e67-4fd0-b755-d39e94b14ebc"
+	type: "player"
+	player_name: "D_xite"
+	ranks: {
+		ee2a0454-7e67-4fd0-b755-d39e94b14ebc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "D_xite"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5992"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbteams:team_stages": [ ]
+	}
+	message_history: [ ]
+	extra: { }
+}

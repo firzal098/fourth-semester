@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "ee2a04547e674fd0b755d39e94b14ebc"
+	name: "D_xite#ee2a0454"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

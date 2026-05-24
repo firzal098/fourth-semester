@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = basic-8.alstore.space:23121
+}
+
